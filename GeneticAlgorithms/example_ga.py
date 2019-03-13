@@ -1,4 +1,3 @@
-#File example_ga.py
 #Example of GA
 #Dr. Jorge Luis Rosas Trigueros
 #Last change: 12feb19
