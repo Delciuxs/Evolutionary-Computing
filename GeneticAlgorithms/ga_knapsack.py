@@ -2,7 +2,7 @@ import math
 import random
 from sys import stdin, stdout
 
-# Asking for the values
+# Asking for values
 stdout.write("KNAPSACK\n")
 stdout.write("Enter the number of objects and the capacity\n")
 numObjects, capacity = map(int, stdin.readline().split())
