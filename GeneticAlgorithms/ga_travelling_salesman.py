@@ -1,12 +1,6 @@
 import math
 import random
 
-#Examples        
-# numCities = 4
-# costs = [[0,2000,6000,7000],[3000,0,8000,3000],[5000,9000,0,1000],[8000,4000,1000,0]]
-# numCities = 3
-# costs = [[0,1000,5000], [5000,0,1000],[1000,5000,0]]
-
 print("TRAVELLING SALESMAN\n")
 print("Enter the number of cities\n")
 numCities = int(input())
