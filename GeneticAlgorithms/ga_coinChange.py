@@ -2,7 +2,7 @@ import math
 import random
 from sys import stdin, stdout
 
-#Asking for the input
+#Asking for input
 stdout.write("COIN CHANGE PROBLEM\n")
 stdout.write("Enter the change and the amount of coins: \n")
 change, numCoins = map(int, stdin.readline().split())
